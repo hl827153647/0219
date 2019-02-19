@@ -1,0 +1,9 @@
+require.config({
+    baseUrl:"/js/",
+    paths:{
+        "swiper":"./libs/swiper.min",
+        "bscroll":"./libs/bscroll",
+        "flexible":"./libs/flexible",
+        "homePage":"./me/homePage"
+    }
+})
